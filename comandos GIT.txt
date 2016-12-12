@@ -1,0 +1,5 @@
+--Deshacer el commit perdiendo las modificaciones
+
+git reset --hard HEAD~3
+
+--Deshacer el commit manteniendo las modificaciones
